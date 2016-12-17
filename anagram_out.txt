@@ -1,0 +1,6 @@
+act
+atc
+cat
+cta
+tac
+tca
