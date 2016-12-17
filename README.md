@@ -1,2 +1,2 @@
 # Anagrams-of-string
-Program to generate anagrams of a string
+Python program to generate anagrams of a string
