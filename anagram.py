@@ -27,4 +27,4 @@ def printAnagrams(word):
     file.close() 
 
           
-printAnagrams('ron')
+printAnagrams('cat')
