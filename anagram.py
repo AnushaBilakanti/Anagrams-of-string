@@ -1,3 +1,8 @@
+'''
+Created on December 17, 2016
+@author: Anusha Bilakanti
+'''
+
 def permuteString(lst):
     if(len(lst) == 0):
         return []
